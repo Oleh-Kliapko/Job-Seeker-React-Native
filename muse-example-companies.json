@@ -1,0 +1,758 @@
+{
+  "page": 1,
+  "page_count": 33,
+  "items_per_page": 20,
+  "took": 4,
+  "timed_out": false,
+  "total": 659,
+  "results": [
+    {
+      "description": "",
+      "locations": [
+        {
+          "name": "Boston, MA"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Financial Services"
+        }
+      ],
+      "tags": [],
+      "short_name": "circle",
+      "name": "Circle",
+      "publication_date": "2023-03-07T17:50:06.946388Z",
+      "model_type": "companies",
+      "twitter": null,
+      "id": 15000203,
+      "size": {
+        "name": "Large Size",
+        "short_name": "large"
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/companies/circle",
+        "jobs_page": "https://www.themuse.com/search/jobs/c-circle",
+        "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000203%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+        "f2_image": "https://assets.themuse.com/uploaded/companies/15000203/about_modules/None/profile_image_2.jpg",
+        "logo_image": "https://assets.themuse.com/uploaded/companies/15000203/small_logo.png",
+        "f1_image": "https://assets.themuse.com/uploaded/companies/15000203/about_modules/None/profile_image_1.jpg",
+        "f3_image": "https://assets.themuse.com/uploaded/companies/15000203/about_modules/None/profile_image_3.jpg"
+      }
+    },
+    {
+      "description": "Philips is a leading health tech company, improving people’s health and enabling better outcomes across the health continuum—from healthy living and prevention to diagnosis, treatment, and home care.",
+      "locations": [
+        {
+          "name": "Cambridge, MA"
+        },
+        {
+          "name": "Nashville, TN"
+        },
+        {
+          "name": "Seattle, WA"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Healthcare"
+        },
+        {
+          "name": "Technology"
+        }
+      ],
+      "tags": [],
+      "short_name": "philips",
+      "name": "Philips",
+      "publication_date": "2016-11-01T18:39:10.861300Z",
+      "model_type": "companies",
+      "twitter": "PhilipsJobsNA",
+      "id": 1103,
+      "size": {
+        "name": "Large Size",
+        "short_name": "large"
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/companies/philips",
+        "jobs_page": "https://www.themuse.com/search/jobs/c-philips",
+        "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F1103%2Fabout_modules%2F4486%2F587dbffa-9f1a-4cbe-9420-898a70e845e1.jpg%3Fv%3D465de13f4429a943919ed8df16798784edb75b09b5169b25176e198f185cd3cd&h=135&prog=1&w=183",
+        "f2_image": "https://assets.themuse.com/uploaded/companies/1103/about_modules/4486/5715a951-4f0b-4c16-b9cc-61fb8412804c.jpg?v=081b439ab2929af817d5184e51e5d09fbcbc8a7bd30e40e4c76427ae6bca48fa",
+        "logo_image": "https://assets.themuse.com/uploaded/companies/1103/small_logo.png?v=540b888124487278bc47591613550101ff3c468cd2e08731f7cffaf9dbbaf381",
+        "f1_image": "https://assets.themuse.com/uploaded/companies/1103/about_modules/4486/587dbffa-9f1a-4cbe-9420-898a70e845e1.jpg?v=465de13f4429a943919ed8df16798784edb75b09b5169b25176e198f185cd3cd",
+        "f3_image": "https://assets.themuse.com/uploaded/companies/1103/about_modules/4486/f0e133f9-109d-4ac5-ba46-152f72a2dc15.jpg?v=e2018ad29d16b1447a482779686c81fbf54dddf5a10f0dcbc7bd9d6d8baaa64c"
+      }
+    },
+    {
+      "description": "",
+      "locations": [
+        {
+          "name": "Torrance, CA"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Information Technology"
+        },
+        {
+          "name": "Manufacturing"
+        }
+      ],
+      "tags": [],
+      "short_name": "spacex",
+      "name": "SpaceX",
+      "publication_date": "2023-02-24T18:44:27.755765Z",
+      "model_type": "companies",
+      "twitter": null,
+      "id": 15000190,
+      "size": {
+        "name": "Large Size",
+        "short_name": "large"
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/companies/spacex",
+        "jobs_page": "https://www.themuse.com/search/jobs/c-spacex",
+        "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000190%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+        "f2_image": "https://assets.themuse.com/uploaded/companies/15000190/about_modules/None/profile_image_2.jpg",
+        "logo_image": "https://assets.themuse.com/uploaded/companies/15000190/small_logo.png",
+        "f1_image": "https://assets.themuse.com/uploaded/companies/15000190/about_modules/None/profile_image_1.jpg",
+        "f3_image": "https://assets.themuse.com/uploaded/companies/15000190/about_modules/None/profile_image_3.jpg"
+      }
+    },
+    {
+      "description": "",
+      "locations": [
+        {
+          "name": "New York, NY"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Software"
+        }
+      ],
+      "tags": [],
+      "short_name": "glossgenius",
+      "name": "GlossGenius",
+      "publication_date": "2023-03-07T17:45:37.137777Z",
+      "model_type": "companies",
+      "twitter": null,
+      "id": 15000202,
+      "size": {
+        "name": "Medium Size",
+        "short_name": "medium"
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/companies/glossgenius",
+        "jobs_page": "https://www.themuse.com/search/jobs/c-glossgenius",
+        "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000202%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+        "f2_image": "https://assets.themuse.com/uploaded/companies/15000202/about_modules/None/profile_image_2.jpg",
+        "logo_image": "https://assets.themuse.com/uploaded/companies/15000202/small_logo.png",
+        "f1_image": "https://assets.themuse.com/uploaded/companies/15000202/about_modules/None/profile_image_1.jpg",
+        "f3_image": "https://assets.themuse.com/uploaded/companies/15000202/about_modules/None/profile_image_3.jpg"
+      }
+    },
+    {
+      "description": "",
+      "locations": [
+        {
+          "name": "Manhattan, NY"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Arts & Music"
+        }
+      ],
+      "tags": [],
+      "short_name": "sothebys",
+      "name": "Sotheby's",
+      "publication_date": "2023-02-24T17:28:58.127578Z",
+      "model_type": "companies",
+      "twitter": null,
+      "id": 15000187,
+      "size": {
+        "name": "Large Size",
+        "short_name": "large"
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/companies/sothebys",
+        "jobs_page": "https://www.themuse.com/search/jobs/c-sothebys",
+        "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000187%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+        "f2_image": "https://assets.themuse.com/uploaded/companies/15000187/about_modules/None/profile_image_2.jpg",
+        "logo_image": "https://assets.themuse.com/uploaded/companies/15000187/small_logo.png",
+        "f1_image": "https://assets.themuse.com/uploaded/companies/15000187/about_modules/None/profile_image_1.jpg",
+        "f3_image": "https://assets.themuse.com/uploaded/companies/15000187/about_modules/None/profile_image_3.jpg"
+      }
+    },
+    {
+      "description": "",
+      "locations": [
+        {
+          "name": "New York, NY"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Retail"
+        }
+      ],
+      "tags": [],
+      "short_name": "renttherunway",
+      "name": "Rent the Runway",
+      "publication_date": "2023-03-07T17:52:11.925681Z",
+      "model_type": "companies",
+      "twitter": null,
+      "id": 15000197,
+      "size": {
+        "name": "Large Size",
+        "short_name": "large"
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/companies/renttherunway",
+        "jobs_page": "https://www.themuse.com/search/jobs/c-renttherunway",
+        "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000197%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+        "f2_image": "https://assets.themuse.com/uploaded/companies/15000197/about_modules/None/profile_image_2.jpg",
+        "logo_image": "https://assets.themuse.com/uploaded/companies/15000197/small_logo.png",
+        "f1_image": "https://assets.themuse.com/uploaded/companies/15000197/about_modules/None/profile_image_1.jpg",
+        "f3_image": "https://assets.themuse.com/uploaded/companies/15000197/about_modules/None/profile_image_3.jpg"
+      }
+    },
+    {
+      "description": "",
+      "locations": [
+        {
+          "name": "San Francisco, CA"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Information Technology"
+        }
+      ],
+      "tags": [],
+      "short_name": "flexport",
+      "name": "Flexport",
+      "publication_date": "2023-03-07T18:03:32.923451Z",
+      "model_type": "companies",
+      "twitter": null,
+      "id": 15000188,
+      "size": {
+        "name": "Large Size",
+        "short_name": "large"
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/companies/flexport",
+        "jobs_page": "https://www.themuse.com/search/jobs/c-flexport",
+        "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000188%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+        "f2_image": "https://assets.themuse.com/uploaded/companies/15000188/about_modules/None/profile_image_2.jpg",
+        "logo_image": "https://assets.themuse.com/uploaded/companies/15000188/small_logo.png",
+        "f1_image": "https://assets.themuse.com/uploaded/companies/15000188/about_modules/None/profile_image_1.jpg",
+        "f3_image": "https://assets.themuse.com/uploaded/companies/15000188/about_modules/None/profile_image_3.jpg"
+      }
+    },
+    {
+      "description": "",
+      "locations": [
+        {
+          "name": "Santa Monica, CA"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Entertainment & Gaming"
+        }
+      ],
+      "tags": [],
+      "short_name": "riotgames",
+      "name": "Riot Games",
+      "publication_date": "2023-03-07T17:42:11.963156Z",
+      "model_type": "companies",
+      "twitter": null,
+      "id": 15000199,
+      "size": {
+        "name": "Large Size",
+        "short_name": "large"
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/companies/riotgames",
+        "jobs_page": "https://www.themuse.com/search/jobs/c-riotgames",
+        "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000199%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+        "f2_image": "https://assets.themuse.com/uploaded/companies/15000199/about_modules/None/profile_image_2.jpg",
+        "logo_image": "https://assets.themuse.com/uploaded/companies/15000199/small_logo.png",
+        "f1_image": "https://assets.themuse.com/uploaded/companies/15000199/about_modules/None/profile_image_1.jpg",
+        "f3_image": "https://assets.themuse.com/uploaded/companies/15000199/about_modules/None/profile_image_3.jpg"
+      }
+    },
+    {
+      "description": "AB Tasty offers an expandable tool for website and conversion rate optimization, personalization, and user engagement.",
+      "locations": [
+        {
+          "name": "Cologne, Germany"
+        },
+        {
+          "name": "London, United Kingdom"
+        },
+        {
+          "name": "Madrid, Spain"
+        },
+        {
+          "name": "New York, NY"
+        },
+        {
+          "name": "Paris, France"
+        },
+        {
+          "name": "San Francisco, CA"
+        },
+        {
+          "name": "Singapore"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Technology"
+        }
+      ],
+      "tags": [],
+      "short_name": "abtasty",
+      "name": "AB Tasty",
+      "publication_date": "2019-09-27T13:36:16.363779Z",
+      "model_type": "companies",
+      "twitter": null,
+      "id": 11719,
+      "size": {
+        "name": "Medium Size",
+        "short_name": "medium"
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/companies/abtasty",
+        "jobs_page": "https://www.themuse.com/search/jobs/c-abtasty",
+        "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F11719%2Fabout_modules%2F114740%2F1300810c-d639-4f27-9dcc-0add93114002.jpg%3Fv%3Dbd24fcf44f56fc015ed76ba2f9c8c15c7231a623d67b3c0beb87548abe8e86bb&h=135&prog=1&w=183",
+        "f2_image": "https://assets.themuse.com/uploaded/companies/11719/about_modules/114740/56c4f44d-8fcf-42e5-a9a0-1bc0f5065b32.jpg?v=720d89158ac6505ae0da786b327bf31803fe6a83d0841427d129730a7d74fb1e",
+        "logo_image": "https://assets.themuse.com/uploaded/companies/11719/small_logo.png?v=507012906717a71d488e3fd4fc71f8d5a6a210152a0459656126c6eae7f9bb39",
+        "f1_image": "https://assets.themuse.com/uploaded/companies/11719/about_modules/114740/1300810c-d639-4f27-9dcc-0add93114002.jpg?v=bd24fcf44f56fc015ed76ba2f9c8c15c7231a623d67b3c0beb87548abe8e86bb",
+        "f3_image": "https://assets.themuse.com/uploaded/companies/11719/about_modules/114740/f20e08b4-dae5-4056-85af-4de7cd8f02dc.jpg?v=6ce245ce9db3b57bc2581e64571e3798e169c769f7de1a8c128d82ba3639c13b"
+      }
+    },
+    {
+      "description": "",
+      "locations": [
+        {
+          "name": "San Diego, CA"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Healthcare"
+        }
+      ],
+      "tags": [],
+      "short_name": "bd",
+      "name": "BD",
+      "publication_date": "2023-07-05T16:24:01.013383Z",
+      "model_type": "companies",
+      "twitter": null,
+      "id": 15000277,
+      "size": {
+        "name": "Large Size",
+        "short_name": "large"
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/companies/bd",
+        "jobs_page": "https://www.themuse.com/search/jobs/c-bd",
+        "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000277%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+        "f2_image": "https://assets.themuse.com/uploaded/companies/15000277/about_modules/None/profile_image_2.jpg",
+        "logo_image": "https://assets.themuse.com/uploaded/companies/15000277/small_logo.png",
+        "f1_image": "https://assets.themuse.com/uploaded/companies/15000277/about_modules/None/profile_image_1.jpg",
+        "f3_image": "https://assets.themuse.com/uploaded/companies/15000277/about_modules/None/profile_image_3.jpg"
+      }
+    },
+    {
+      "description": "At Alteryx, we believe that analytics can empower all employees to make faster, more insightful, and more confident decisions — regardless of technical skill level. With our low-code, no-code platform and easy drag-and-drop capabilities, everyone can move on from report building and say hello to data storytelling.",
+      "locations": [
+        {
+          "name": "Irvine, CA"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Information Technology"
+        }
+      ],
+      "tags": [],
+      "short_name": "alteryx",
+      "name": "Alteryx",
+      "publication_date": "2023-06-02T14:42:39.987620Z",
+      "model_type": "companies",
+      "twitter": null,
+      "id": 15000230,
+      "size": {
+        "name": "Large Size",
+        "short_name": "large"
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/companies/alteryx",
+        "jobs_page": "https://www.themuse.com/search/jobs/c-alteryx",
+        "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000230%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+        "f2_image": "https://assets.themuse.com/uploaded/companies/15000230/about_modules/None/profile_image_2.jpg",
+        "logo_image": "https://assets.themuse.com/uploaded/companies/15000230/small_logo.png",
+        "f1_image": "https://assets.themuse.com/uploaded/companies/15000230/about_modules/None/profile_image_1.jpg",
+        "f3_image": "https://assets.themuse.com/uploaded/companies/15000230/about_modules/None/profile_image_3.jpg"
+      }
+    },
+    {
+      "description": "We're more than IT allies. Globally, we optimize, evolve, and innovate with clients, crafting tailored solutions that expedite business outcomes. As a top Azure Expert MSP and one of seven with AWS mainframe competency, we define a smarter cloud future. Our distinction as an ISG Provider Lens Leader, successfully managing 1 million MIPS, showcases our unmatched mainframe expertise.\r\n\r\nCompany stats:\r\nGlobal locations across the US, Europe and India\r\n3,400+ associates\r\nAward-winning Academies for mainframe and cloud\r\nProven cross-platform expertise that powers transformation: Hundreds of Microsoft and AWS certified experts\r\nThe Maven Report: thought leadership that provides actionable insights",
+      "locations": [
+        {
+          "name": "Bengaluru, India"
+        },
+        {
+          "name": "Conway, AR"
+        },
+        {
+          "name": "Downers Grove, IL"
+        },
+        {
+          "name": "Gdańsk, Poland"
+        },
+        {
+          "name": "Pune, India"
+        },
+        {
+          "name": "Staines, United Kingdom"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Consulting"
+        },
+        {
+          "name": "Information Technology"
+        },
+        {
+          "name": "Technology"
+        }
+      ],
+      "tags": [],
+      "short_name": "ensono",
+      "name": "Ensono",
+      "publication_date": "2023-09-06T18:07:54.563624Z",
+      "model_type": "companies",
+      "twitter": null,
+      "id": 15000305,
+      "size": {
+        "name": "Large Size",
+        "short_name": "large"
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/companies/ensono",
+        "jobs_page": "https://www.themuse.com/search/jobs/c-ensono",
+        "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000305%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+        "f2_image": "https://assets.themuse.com/uploaded/companies/15000305/about_modules/None/profile_image_2.jpg",
+        "logo_image": "https://assets.themuse.com/uploaded/companies/15000305/small_logo.png",
+        "f1_image": "https://assets.themuse.com/uploaded/companies/15000305/about_modules/None/profile_image_1.jpg",
+        "f3_image": "https://assets.themuse.com/uploaded/companies/15000305/about_modules/None/profile_image_3.jpg"
+      }
+    },
+    {
+      "description": "WME is a leading entertainment agency representing the world’s greatest artists, content creators, and talent across books, digital media, fashion, film, food, music, sports, television, and theater. Named one of Fast Company’s Most Innovative Companies, WME is a subsidiary of Endeavor, a global sports and entertainment company.\r\n\r\nWE ARE IN THE BUSINESS OF MAKING GREAT AGENTS! ​",
+      "locations": [
+        {
+          "name": "Beverly Hills, CA"
+        },
+        {
+          "name": "London, United Kingdom"
+        },
+        {
+          "name": "Manhattan, NY"
+        },
+        {
+          "name": "Nashville, TN"
+        },
+        {
+          "name": "Sydney, Australia"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Arts & Music"
+        },
+        {
+          "name": "Entertainment & Gaming"
+        },
+        {
+          "name": "Fashion & Beauty"
+        },
+        {
+          "name": "Media"
+        }
+      ],
+      "tags": [],
+      "short_name": "wmewilliammorrisendeavor",
+      "name": "WME | William Morris Endeavor",
+      "publication_date": "2023-07-14T14:34:12.784307Z",
+      "model_type": "companies",
+      "twitter": null,
+      "id": 15000296,
+      "size": {
+        "name": "Large Size",
+        "short_name": "large"
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/companies/wmewilliammorrisendeavor",
+        "jobs_page": "https://www.themuse.com/search/jobs/c-wmewilliammorrisendeavor",
+        "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000296%2Fabout_modules%2F118238%2F52311f75-e281-4381-b456-c3b35af0660f.jpg%3Fv%3D9badba62e80c68bd33b66fde9c707044e91f998ec4f4a94e931d647beed742b7&h=135&prog=1&w=183",
+        "f2_image": "https://assets.themuse.com/uploaded/companies/15000296/about_modules/None/profile_image_2.jpg",
+        "logo_image": "https://assets.themuse.com/uploaded/companies/15000296/small_logo.png",
+        "f1_image": "https://assets.themuse.com/uploaded/companies/15000296/about_modules/118238/52311f75-e281-4381-b456-c3b35af0660f.jpg?v=9badba62e80c68bd33b66fde9c707044e91f998ec4f4a94e931d647beed742b7",
+        "f3_image": "https://assets.themuse.com/uploaded/companies/15000296/about_modules/None/profile_image_3.jpg"
+      }
+    },
+    {
+      "description": "",
+      "locations": [
+        {
+          "name": "Toronto, Canada"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Financial Services"
+        }
+      ],
+      "tags": [],
+      "short_name": "tdbank",
+      "name": "TD Bank",
+      "publication_date": "2023-07-05T16:08:10.498809Z",
+      "model_type": "companies",
+      "twitter": null,
+      "id": 15000266,
+      "size": {
+        "name": "Large Size",
+        "short_name": "large"
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/companies/tdbank",
+        "jobs_page": "https://www.themuse.com/search/jobs/c-tdbank",
+        "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000266%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+        "f2_image": "https://assets.themuse.com/uploaded/companies/15000266/about_modules/None/profile_image_2.jpg",
+        "logo_image": "https://assets.themuse.com/uploaded/companies/15000266/small_logo.png",
+        "f1_image": "https://assets.themuse.com/uploaded/companies/15000266/about_modules/None/profile_image_1.jpg",
+        "f3_image": "https://assets.themuse.com/uploaded/companies/15000266/about_modules/None/profile_image_3.jpg"
+      }
+    },
+    {
+      "description": "",
+      "locations": [
+        {
+          "name": "Austin, TX"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Technology"
+        }
+      ],
+      "tags": [],
+      "short_name": "forcepoint",
+      "name": "Forcepoint",
+      "publication_date": "2023-07-18T13:04:02.859522Z",
+      "model_type": "companies",
+      "twitter": null,
+      "id": 15000289,
+      "size": {
+        "name": "Large Size",
+        "short_name": "large"
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/companies/forcepoint",
+        "jobs_page": "https://www.themuse.com/search/jobs/c-forcepoint",
+        "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000289%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+        "f2_image": "https://assets.themuse.com/uploaded/companies/15000289/about_modules/None/profile_image_2.jpg",
+        "logo_image": "https://assets.themuse.com/uploaded/companies/15000289/small_logo.png",
+        "f1_image": "https://assets.themuse.com/uploaded/companies/15000289/about_modules/None/profile_image_1.jpg",
+        "f3_image": "https://assets.themuse.com/uploaded/companies/15000289/about_modules/None/profile_image_3.jpg"
+      }
+    },
+    {
+      "description": "",
+      "locations": [
+        {
+          "name": "Boston, MA"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Biotechnology"
+        }
+      ],
+      "tags": [],
+      "short_name": "ginkgobioworks",
+      "name": "Ginkgo Bioworks",
+      "publication_date": "2023-05-31T14:59:36.721051Z",
+      "model_type": "companies",
+      "twitter": null,
+      "id": 15000260,
+      "size": {
+        "name": "Medium Size",
+        "short_name": "medium"
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/companies/ginkgobioworks",
+        "jobs_page": "https://www.themuse.com/search/jobs/c-ginkgobioworks",
+        "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000260%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+        "f2_image": "https://assets.themuse.com/uploaded/companies/15000260/about_modules/None/profile_image_2.jpg",
+        "logo_image": "https://assets.themuse.com/uploaded/companies/15000260/small_logo.png",
+        "f1_image": "https://assets.themuse.com/uploaded/companies/15000260/about_modules/None/profile_image_1.jpg",
+        "f3_image": "https://assets.themuse.com/uploaded/companies/15000260/about_modules/None/profile_image_3.jpg"
+      }
+    },
+    {
+      "description": "",
+      "locations": [
+        {
+          "name": "Minneapolis, MN"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Financial Services"
+        }
+      ],
+      "tags": [],
+      "short_name": "royalbankofcanada",
+      "name": "Royal Bank of Canada",
+      "publication_date": "2023-05-31T14:49:39.710955Z",
+      "model_type": "companies",
+      "twitter": null,
+      "id": 15000240,
+      "size": {
+        "name": "Large Size",
+        "short_name": "large"
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/companies/royalbankofcanada",
+        "jobs_page": "https://www.themuse.com/search/jobs/c-royalbankofcanada",
+        "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000240%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+        "f2_image": "https://assets.themuse.com/uploaded/companies/15000240/about_modules/None/profile_image_2.jpg",
+        "logo_image": "https://assets.themuse.com/uploaded/companies/15000240/small_logo.png",
+        "f1_image": "https://assets.themuse.com/uploaded/companies/15000240/about_modules/None/profile_image_1.jpg",
+        "f3_image": "https://assets.themuse.com/uploaded/companies/15000240/about_modules/None/profile_image_3.jpg"
+      }
+    },
+    {
+      "description": "Since 1931, Capital Group associates have been helping people take control of their financial futures. We do so by staying true to our core beliefs, our approach to investing and our commitment to community. Today, we're one of the world's largest investment management organizations, managing $2.2 trillion in assets. We believe a financial goal is more than a number for our clients. It may represent a new home, a small business, a comfortable retirement or a college education. We help our clients go from dreaming to doing by focusing on our core beliefs and being grounded in our core values. In doing so, we have been helping people get from \"Can I?\" to \"I can\" for over 90 years.",
+      "locations": [
+        {
+          "name": "Irvine, CA"
+        },
+        {
+          "name": "London, United Kingdom"
+        },
+        {
+          "name": "Los Angeles, CA"
+        },
+        {
+          "name": "Manhattan, NY"
+        },
+        {
+          "name": "San Antonio, TX"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Financial Services"
+        }
+      ],
+      "tags": [],
+      "short_name": "capitalgroup",
+      "name": "Capital Group",
+      "publication_date": "2023-04-03T17:27:30.341808Z",
+      "model_type": "companies",
+      "twitter": null,
+      "id": 15000215,
+      "size": {
+        "name": "Large Size",
+        "short_name": "large"
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/companies/capitalgroup",
+        "jobs_page": "https://www.themuse.com/search/jobs/c-capitalgroup",
+        "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000215%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+        "f2_image": "https://assets.themuse.com/uploaded/companies/15000215/about_modules/None/profile_image_2.jpg",
+        "logo_image": "https://assets.themuse.com/uploaded/companies/15000215/small_logo.png",
+        "f1_image": "https://assets.themuse.com/uploaded/companies/15000215/about_modules/None/profile_image_1.jpg",
+        "f3_image": "https://assets.themuse.com/uploaded/companies/15000215/about_modules/None/profile_image_3.jpg"
+      }
+    },
+    {
+      "description": "Through the last 75+ years, our privately-held company has remained committed to supporting our clients throughout their lifelong financial journeys. Financial Planning is a little different at Fidelity. There’s no cold calling. Our advisors are all focused on making sure our customers get the most out of their investments and their relationship with Fidelity by providing needs-based financial planning and wealth management expertise.",
+      "locations": [
+        {
+          "name": "Boston, MA"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Financial Services"
+        },
+        {
+          "name": "Fintech"
+        }
+      ],
+      "tags": [],
+      "short_name": "fidelityinvestments",
+      "name": "Fidelity Investments",
+      "publication_date": "2023-10-23T21:29:25.286664Z",
+      "model_type": "companies",
+      "twitter": null,
+      "id": 15000320,
+      "size": {
+        "name": "Large Size",
+        "short_name": "large"
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/companies/fidelityinvestments",
+        "jobs_page": "https://www.themuse.com/search/jobs/c-fidelityinvestments",
+        "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000320%2Fabout_modules%2FNone%2Fprofile_image_3.jpg&h=135&prog=1&w=183",
+        "f2_image": "https://assets.themuse.com/uploaded/companies/15000320/about_modules/None/profile_image_2.jpg",
+        "logo_image": "https://assets.themuse.com/uploaded/companies/15000320/small_logo.png",
+        "f1_image": "https://assets.themuse.com/uploaded/companies/15000320/about_modules/None/profile_image_3.jpg",
+        "f3_image": "https://assets.themuse.com/uploaded/companies/15000320/about_modules/None/profile_image_1.jpg"
+      }
+    },
+    {
+      "description": "",
+      "locations": [
+        {
+          "name": "Memphis, TN"
+        }
+      ],
+      "industries": [
+        {
+          "name": "Consumer Goods & Services"
+        }
+      ],
+      "tags": [],
+      "short_name": "rentokilterminix",
+      "name": "Rentokil Terminix",
+      "publication_date": "2023-07-05T16:20:48.778519Z",
+      "model_type": "companies",
+      "twitter": null,
+      "id": 15000273,
+      "size": {
+        "name": "Large Size",
+        "short_name": "large"
+      },
+      "refs": {
+        "landing_page": "https://www.themuse.com/companies/rentokilterminix",
+        "jobs_page": "https://www.themuse.com/search/jobs/c-rentokilterminix",
+        "mini_f1_image": "https://pilbox.themuse.com/image.jpg?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fcompanies%2F15000273%2Fabout_modules%2FNone%2Fprofile_image_1.jpg&h=135&prog=1&w=183",
+        "f2_image": "https://assets.themuse.com/uploaded/companies/15000273/about_modules/None/profile_image_2.jpg",
+        "logo_image": "https://assets.themuse.com/uploaded/companies/15000273/small_logo.png",
+        "f1_image": "https://assets.themuse.com/uploaded/companies/15000273/about_modules/None/profile_image_1.jpg",
+        "f3_image": "https://assets.themuse.com/uploaded/companies/15000273/about_modules/None/profile_image_3.jpg"
+      }
+    }
+  ],
+  "aggregations": {}
+}
