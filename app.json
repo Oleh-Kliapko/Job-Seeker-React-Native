@@ -23,7 +23,11 @@
     "updates": {
       "url": "https://u.expo.dev/93b0bfec-09fd-4f49-8120-0433c833d6eb"
     },
-    "android": {},
-    "ios": {}
+    "android": {
+      "package": "com.oleh_kliapko.jobseeker.app"
+    },
+    "ios": {
+      "bundleIdentifier": "com.olehkliapko.jobseeker.app"
+    }
   }
 }
